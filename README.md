@@ -68,9 +68,21 @@ sendo:
 
 A: área 
 
-$\pi$: constante Pi 
+$\pi$: constante Pi (3,14)
 
 r: raio
+
+Equação de 2° grau 
+
+$ax^2+bx+c=O$
+
+Formula de Bhaskara
+
+
+
+
+
+
 
 
 

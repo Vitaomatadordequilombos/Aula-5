@@ -21,3 +21,27 @@ sendo:
 A: área 
 
 L: lado
+
+LOSANGO
+
+$A=\frac{D.d}{2}$
+
+sendo:
+
+A: área 
+
+D: Diagonal maior 
+
+d: diagonal menor 
+
+RETÂNGULO 
+
+$A=b.h$
+
+sendo:
+
+A: área 
+
+b: base
+
+h: altura 
